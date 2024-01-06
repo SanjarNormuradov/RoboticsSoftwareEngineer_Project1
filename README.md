@@ -6,7 +6,6 @@ Includes models from Gazebo online library, and a custom plugin to display a mes
 
 To start the project, run in the project root directory (e.g. `~/project/`)
 ```
-$ source devel/setup.bash
 $ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:~/project/build
 $ gazebo world/office
 ```
